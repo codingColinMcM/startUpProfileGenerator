@@ -2,7 +2,7 @@
 
 ## Description
 
-A Node JS Application that generates an HTML web page that contains profiles of employees at a software development company. There are three types of profiles that can be created: Manager, Engineer, Intern. The Manager Profile is unique in that it contains a field that indicates the office the manager oversees. The Engineer Profile is unique in that it contains a field that links to the developer's GitHub account.
+A Node JS Application that generates an HTML web page that contains profiles of employees at a software development company. There are three types of profiles that can be created: Manager, Engineer, Intern. The Manager Profile is unique in that it contains a field that indicates the office the manager oversees. The Engineer Profile is unique in that it contains a field that links to the developer's GitHub account. The Intern field is unique in that it contains a field that indicates the school the intern is studying at. 
 
 ## Screenshot
 
