@@ -2,7 +2,7 @@
 
 ## Description
 
-A Node JS Application that generates an HTML web page that contains profiles of employees at a software development company. 
+A Node JS Application that generates an HTML web page that contains profiles of employees at a software development company. There are three types of profiles that can be created: Manager, Engineer, Intern.
 
 ## Screenshot
 
